@@ -60,6 +60,7 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * How do housing costs relate with review scores?
 * What are the most common words used in summaries?
 * What are the most common words in listing names?
+* What factors predict housing cost?
   
 
 
