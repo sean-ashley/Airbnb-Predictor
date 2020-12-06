@@ -55,7 +55,13 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-As a part of my data science journey, I decided it would be fun to create a price predictor for AirBNB homes using Kaggle datasets. This repo serves as a way to look at my methods and conclusions.
+As a part of my data science journey, I decided it would be fun to take the AirBNB dataset and answer some questions I had about house prices.
+* How did housing costs change over time?
+* How do housing costs relate with review scores?
+* What are the most common words used in summaries?
+* What are the most common words in listing names?
+  
+
 
 
 
