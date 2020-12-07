@@ -57,10 +57,8 @@
 
 As a part of my data science journey, I decided it would be fun to take the AirBNB dataset and answer some questions I had about house prices.
 * How did housing costs change over time?
-* How do housing costs relate with review scores?
-* What are the most common words used in summaries?
-* What are the most common words in listing names?
-* What factors predict housing cost?
+* What are the most common words in listing descriptions?
+* What factors predict housing cost and how can we use those factors to predict the cost of housing?
   
 
 
@@ -71,15 +69,8 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * [Seaborn](https://seaborn.pydata.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+* [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+* [nltk](https://www.nltk.org/)
 
 
 
@@ -93,13 +84,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Sean Ashley - [sean.d.ashley@gmail.com](sean.d.ashley@gmail.com)
+Sean Ashley - sean.d.ashley@gmail.com
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Udacity](https://www.udacity.com/?utm_source=gsem_brand&utm_medium=ads_r&utm_campaign=8826748790_c&utm_term=87778505894&utm_keyword=udacity_e&gclid=CjwKCAiA_Kz-BRAJEiwAhJNY77_dDpsTYxJ0FMET1w-E349eyqMhQGFTz6i3ZY_dmqgFLaQn3BbA4xoCflMQAvD_BwE)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md#about-the-project)
+* [1000 Most Common English Words](https://gist.github.com/deekayen/4148741#file-1-1000-txt-L2)
+* [How to count most common words in DataFrame]( https://stackoverflow.com/questions/29903025/count-most-frequent-100-words-from-sentences-in-dataframe-pandas)
 
 
 
