@@ -43,7 +43,8 @@
   </ol>
 </details>
 
-
+## Read my medium article!
+[When Data Science Meets Real Estate](https://sean-d-ashley.medium.com/when-data-science-meets-real-estate-d619d274c4fc)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
