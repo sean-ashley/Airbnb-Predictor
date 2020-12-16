@@ -22,7 +22,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-  <h3 align="center">AirBNB Predictor</h3>
+  <h3 align="center">Airbnb Predictor</h3>
 
   <p align="center">
     Predicting the prices of Airbnb homes in Boston and Seattle Using Kaggle Data Sets and Data Science!
@@ -43,7 +43,7 @@
   </ol>
 </details>
 
-## Read my medium article!
+## Read my Medium article!
 [When Data Science Meets Real Estate](https://sean-d-ashley.medium.com/when-data-science-meets-real-estate-d619d274c4fc)
 
 <!-- ABOUT THE PROJECT -->
