@@ -22,11 +22,6 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">AirBNB Predictor</h3>
 
   <p align="center">
@@ -58,7 +53,7 @@
 As a part of my data science journey, I decided it would be fun to take the AirBNB dataset and answer some questions I had about house prices.
 * How did housing costs change over time?
 * What are the most common words in listing descriptions?
-* What factors predict housing cost and how can we use those factors to predict the cost of housing?
+* What factors predict housing cost ?
   
 
 
@@ -73,11 +68,6 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * [nltk](https://www.nltk.org/)
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
