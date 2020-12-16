@@ -37,7 +37,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
@@ -55,7 +54,11 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * What factors predict housing cost ?
   
 
-
+## Files
+* price-vs-date.ipynb: Jupyter Notebook exploring how the price of Airbnb's change over time.
+* most_common_words.ipynb: Jupyter Notebook visualizing the most common words used in Airbnb property descriptions. 
+* price_predictor.ipynb: Jupyter Notebook creating a random forest predictor and seeing which factors predict housing price.
+* README.md: Markdown file describing the project.
 
 
 ### Built With
