@@ -52,12 +52,12 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * How did housing costs change over time?
 * What are the most common words in listing descriptions?
 * What factors predict housing cost ?
-  git 
 
 ## Files
 * price-vs-date.ipynb: Jupyter Notebook exploring how the price of Airbnb's change over time.
 * most_common_words.ipynb: Jupyter Notebook visualizing the most common words used in Airbnb property descriptions. 
 * price_predictor.ipynb: Jupyter Notebook creating a random forest predictor and seeing which factors predict housing price.
+* portion_of_na.py Module that contains a function that gives the portion of na values in a column, used in all 3 notebooks
 * README.md: Markdown file describing the project.
 
 
