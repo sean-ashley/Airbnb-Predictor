@@ -52,7 +52,7 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * How did housing costs change over time?
 * What are the most common words in listing descriptions?
 * What factors predict housing cost ?
-  
+  git 
 
 ## Files
 * price-vs-date.ipynb: Jupyter Notebook exploring how the price of Airbnb's change over time.
