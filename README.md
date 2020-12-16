@@ -25,7 +25,7 @@
   <h3 align="center">AirBNB Predictor</h3>
 
   <p align="center">
-    Predicting the prices of AirBNB homes in Boston and Seattle Using Kaggle Data Sets and Data Science!
+    Predicting the prices of Airbnb homes in Boston and Seattle Using Kaggle Data Sets and Data Science!
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -62,7 +62,6 @@ As a part of my data science journey, I decided it would be fun to take the AirB
 * [Seaborn](https://seaborn.pydata.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Scikit-Learn](https://scikit-learn.org/stable/)
-* [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 * [nltk](https://www.nltk.org/)
 
 
@@ -81,6 +80,8 @@ Sean Ashley - sean.d.ashley@gmail.com
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md#about-the-project)
 * [1000 Most Common English Words](https://gist.github.com/deekayen/4148741#file-1-1000-txt-L2)
 * [How to count most common words in DataFrame]( https://stackoverflow.com/questions/29903025/count-most-frequent-100-words-from-sentences-in-dataframe-pandas)
+* [Seattle Airbnb data set](https://www.kaggle.com/airbnb/seattle)
+* [Boston airbnb data set](https://www.kaggle.com/airbnb/boston)
 
 
 
