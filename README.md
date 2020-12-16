@@ -48,8 +48,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 As a part of my data science journey, I decided it would be fun to take the AirBNB dataset and answer some questions I had about house prices.
 * How did housing costs change over time?
 * What are the most common words in listing descriptions?
