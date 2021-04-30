@@ -87,6 +87,7 @@ Sean Ashley - sean.d.ashley@gmail.com
 * [Seattle Airbnb data set](https://www.kaggle.com/airbnb/seattle)
 * [Boston airbnb data set](https://www.kaggle.com/airbnb/boston)
 
+Done as a part of the Udacity Data Science Nanodegree. All the work is my own, though I had to follow a rubric.
 
 
 
